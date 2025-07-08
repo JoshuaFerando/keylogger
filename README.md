@@ -43,7 +43,7 @@ Works on most Linux distributions that use the X Window System.
 
 1. Clone this repository:
    ```bash
-   git clonehttps://github.com/JoshuaFerando/keylogger
+   git clone https://github.com/JoshuaFerando/keylogger
    cd keylogger
    ```
 
